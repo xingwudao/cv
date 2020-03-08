@@ -9,7 +9,7 @@ homepage:
   text: xingwudao.me
 ---
 
-# Kaijiang **Chen**
+# Kaijiang **Chen** / 陈开江
 
 <!--
 include contact information from the front matter
@@ -43,17 +43,15 @@ Beijing, China
 
 ## Publications
 
-### **How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**
+### [**推荐系统（Recommendation System） **](https://book.douban.com/subject/34872145/)
 
-**Wode Ni\***, Dor Ma'ayan\*, Katherine Ye, Chinmay Kulkarni, Joshua Sunshine<br>
-_Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20), to appear._
+**Kaijiang Chen\***<br>
+_Publishing House of Electronics Industry _
 
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
+### [**Machine Learning for Hackers (Translation in Chinese) **](https://book.douban.com/subject/24251326/)
 
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides](https://www.cs.cmu.edu/~woden/assets/plateau-19-presentation.pdf)]
+**Kaijiang Chen**, Yizhe Liu, and Xiaonan Meng.<br>
+_China Machine Press_<br>
 
 ### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
 
