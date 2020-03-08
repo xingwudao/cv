@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Kaijiang Chen
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:kaijiangchen@gmail.com
+  text: kaijiangchen@gmail.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://xingwudao.me
+  text: xingwudao.me
 ---
 
 # Wode **Ni**
