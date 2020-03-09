@@ -43,67 +43,41 @@ Beijing, China
 
 ## Publications
 
-### [**推荐系统（Recommendation System） **](https://book.douban.com/subject/34872145/)
+### [**Recommendation System**](https://book.douban.com/subject/34872145/)
 
 **Kaijiang Chen\***<br>
 _Publishing House of Electronics Industry _
 
-### [**Machine Learning for Hackers (Translation in Chinese) **](https://book.douban.com/subject/24251326/)
+### [**Machine Learning for Hackers(Translation in Chinese)**](https://book.douban.com/subject/24251326/)
 
 **Kaijiang Chen**, Yizhe Liu, and Xiaonan Meng.<br>
 _China Machine Press_<br>
 
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
-
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides](https://www.cs.cmu.edu/~woden/assets/plateau-19-presentation.pdf)]
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF](https://www.cs.cmu.edu/~woden/assets/dsldi.pdf)]
-[[slides](https://www.cs.cmu.edu/~woden/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](https://www.cs.cmu.edu/~woden/assets/superres.pdf)]
 
 ----
 
 ## Experience
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+### **Weibo.com** `2010.7 - 2013.8`
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+_Senior Machine Learning Engineering_<br>
+**Respon** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+### **tingban.cn** `2013.8 - 2015.3`
 
-_Research Assistant_<br>
+_Machine Learning Manager_<br>
 Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
 
-### **AsiaInfo** `2015.6 - 2015.8`
+### **start up** `2015.4 - 2018.1`
 
-_Software Engineering Intern_<br>
+_Chief Technology Officer_<br>
 Worked on server-side web applications and server deployment tools.
 
-## Advising
+### **ke.com** `2018.2 - nowadays`
 
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+_Machine Learning Algorithm Architect_<br>
 
-## Teaching
-
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+Worked on server-side web applications and server deployment tools.
 
 ## Honors & Awards
 
