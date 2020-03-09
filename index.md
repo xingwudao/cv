@@ -46,7 +46,7 @@ Beijing, China
 ### [**Recommendation System**](https://book.douban.com/subject/34872145/)
 
 **Kaijiang Chen**<br>
-_Publishing House of Electronics Industry _
+_Publishing House of Electronics Industry_<br>
 
 ### [**Machine Learning for Hackers(Translation in Chinese)**](https://book.douban.com/subject/24251326/)
 
